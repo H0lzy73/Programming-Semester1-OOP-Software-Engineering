@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\bin\Debug\net10.0\Exercise_6_5_Holidays.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\bin\Debug\net10.0\Exercise_6_5_Holidays.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\bin\Debug\net10.0\Exercise_6_5_Holidays.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\bin\Debug\net10.0\Exercise_6_5_Holidays.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\bin\Debug\net10.0\Exercise_6_5_Holidays.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\refint\Exercise_6_5_Holidays.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\Exercise_6_5_Holidays.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_5_Holidays\obj\Debug\net10.0\ref\Exercise_6_5_Holidays.dll
