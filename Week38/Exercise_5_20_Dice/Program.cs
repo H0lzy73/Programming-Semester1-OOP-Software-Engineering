@@ -1,10 +1,10 @@
-﻿int roll == 3;
-bool try == true;
+﻿int roll = 3;
+bool hello = true;
 
-if roll >=3 {
-    Console.WriteLine(try);
-}
+if (roll >= 3) {
+    Console.WriteLine(hello);
+ }
 
-else roll <3 {
-    Console.WriteLine(!try);
-}
+else {
+    Console.WriteLine(!hello);
+ }

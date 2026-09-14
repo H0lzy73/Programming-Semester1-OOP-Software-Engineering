@@ -3,3 +3,13 @@ C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-En
 C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.AssemblyInfo.cs
 C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.csproj.CoreCompileInputs.cache
 C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\bin\Debug\net10.0\Exercise_5_20_Dice.cs.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\bin\Debug\net10.0\Exercise_5_20_Dice.cs.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\bin\Debug\net10.0\Exercise_5_20_Dice.cs.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\bin\Debug\net10.0\Exercise_5_20_Dice.cs.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\bin\Debug\net10.0\Exercise_5_20_Dice.cs.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\refint\Exercise_5_20_Dice.cs.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\ref\Exercise_5_20_Dice.cs.dll

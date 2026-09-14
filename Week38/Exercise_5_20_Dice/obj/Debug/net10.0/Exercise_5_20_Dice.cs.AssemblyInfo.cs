@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercise_5_20_Dice.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386e0349b7a85f7f03aefe91ed3c3355da06d37f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee52eb1308e221b2e5ccd4dd7384fa990841139a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercise_5_20_Dice.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercise_5_20_Dice.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
