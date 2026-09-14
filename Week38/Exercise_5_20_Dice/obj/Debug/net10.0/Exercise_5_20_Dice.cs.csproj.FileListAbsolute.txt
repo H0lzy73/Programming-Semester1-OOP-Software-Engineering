@@ -1,0 +1,5 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_5_20_Dice\obj\Debug\net10.0\Exercise_5_20_Dice.cs.sourcelink.json
