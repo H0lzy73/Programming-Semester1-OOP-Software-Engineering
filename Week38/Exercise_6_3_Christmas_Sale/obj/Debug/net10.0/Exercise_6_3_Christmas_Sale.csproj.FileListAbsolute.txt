@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\bin\Debug\net10.0\Exercise_6_3_Christmas_Sale.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\bin\Debug\net10.0\Exercise_6_3_Christmas_Sale.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\bin\Debug\net10.0\Exercise_6_3_Christmas_Sale.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\bin\Debug\net10.0\Exercise_6_3_Christmas_Sale.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\bin\Debug\net10.0\Exercise_6_3_Christmas_Sale.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\refint\Exercise_6_3_Christmas_Sale.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\Exercise_6_3_Christmas_Sale.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_6_3_Christmas_Sale\obj\Debug\net10.0\ref\Exercise_6_3_Christmas_Sale.dll
