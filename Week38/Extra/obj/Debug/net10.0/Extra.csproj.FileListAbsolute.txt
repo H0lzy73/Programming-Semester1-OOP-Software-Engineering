@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\bin\Debug\net10.0\Extra.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\bin\Debug\net10.0\Extra.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\bin\Debug\net10.0\Extra.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\bin\Debug\net10.0\Extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\bin\Debug\net10.0\Extra.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\refint\Extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\Extra.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Extra\obj\Debug\net10.0\ref\Extra.dll

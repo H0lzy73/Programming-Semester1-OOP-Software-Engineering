@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\bin\Debug\net10.0\Exercise_7_4_Largest_in_Array.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\bin\Debug\net10.0\Exercise_7_4_Largest_in_Array.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\bin\Debug\net10.0\Exercise_7_4_Largest_in_Array.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\bin\Debug\net10.0\Exercise_7_4_Largest_in_Array.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\bin\Debug\net10.0\Exercise_7_4_Largest_in_Array.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\refint\Exercise_7_4_Largest_in_Array.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\Exercise_7_4_Largest_in_Array.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_4_Largest_in_Array\obj\Debug\net10.0\ref\Exercise_7_4_Largest_in_Array.dll
