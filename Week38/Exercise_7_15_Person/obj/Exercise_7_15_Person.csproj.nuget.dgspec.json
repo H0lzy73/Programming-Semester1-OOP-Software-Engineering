@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Extra\\Extra.csproj": {}
+    "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Exercise_7_15_Person\\Exercise_7_15_Person.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Extra\\Extra.csproj": {
+    "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Exercise_7_15_Person\\Exercise_7_15_Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Extra\\Extra.csproj",
-        "projectName": "Extra",
-        "projectPath": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Extra\\Extra.csproj",
+        "projectUniqueName": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Exercise_7_15_Person\\Exercise_7_15_Person.csproj",
+        "projectName": "Exercise_7_15_Person",
+        "projectPath": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Exercise_7_15_Person\\Exercise_7_15_Person.csproj",
         "packagesPath": "C:\\Users\\dghol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Extra\\obj\\",
+        "outputPath": "C:\\Users\\dghol\\David\\Unisachen\\Programming\\Programming-Semester1-OOP-Software-Engineering\\Week38\\Exercise_7_15_Person\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dghol\\AppData\\Roaming\\NuGet\\NuGet.Config"

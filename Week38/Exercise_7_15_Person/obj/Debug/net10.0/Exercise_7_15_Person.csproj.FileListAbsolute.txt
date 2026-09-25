@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\bin\Debug\net10.0\Exercise_7_15_Person.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\bin\Debug\net10.0\Exercise_7_15_Person.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\bin\Debug\net10.0\Exercise_7_15_Person.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\bin\Debug\net10.0\Exercise_7_15_Person.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\bin\Debug\net10.0\Exercise_7_15_Person.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\refint\Exercise_7_15_Person.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\Exercise_7_15_Person.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Week38\Exercise_7_15_Person\obj\Debug\net10.0\ref\Exercise_7_15_Person.dll
