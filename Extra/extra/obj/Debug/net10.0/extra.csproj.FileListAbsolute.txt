@@ -1,0 +1,15 @@
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\bin\Debug\net10.0\extra.exe
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\bin\Debug\net10.0\extra.deps.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\bin\Debug\net10.0\extra.runtimeconfig.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\bin\Debug\net10.0\extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\bin\Debug\net10.0\extra.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.AssemblyInfoInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.AssemblyInfo.cs
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.csproj.CoreCompileInputs.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.sourcelink.json
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\refint\extra.dll
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.pdb
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\extra.genruntimeconfig.cache
+C:\Users\dghol\David\Unisachen\Programming\Programming-Semester1-OOP-Software-Engineering\Extra\extra\obj\Debug\net10.0\ref\extra.dll
