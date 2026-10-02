@@ -2,34 +2,40 @@
 
 
 
-int[] grades = {-03 , 00 , 02 , 4 , 7 , 10 , 12};
+int[] grades = {-03 , 00 , 02 , 4 , 7 , 10 , 12, 10, 10, 4, 7, 4, 7};
 
-int GetGrade ()
+int GetGrade (int i)
 {
     
-    for (int courseid = 0; courseid<grades.Length; courseid++)
-    {
-        int grade = grades[courseid];
-        if (grade>02)
+    
+        int grade = grades[i];
+        //Console.WriteLine("test");
+        if (grade>=2)
         {
-            Console.WriteLine(grade);
+            //Console.WriteLine(grade);
+            return grade;
+            
         }
         else
         {
-            throw new Exception("FAIL!");
-            Console.WriteLine(e.message);
+            //Console.WriteLine(Exception);
+            return 0;
+            //Console.WriteLine("test");
         }
-    }
 
 }
 
-int count;
-int sum;
+double count = 0;
+double sum = 0;
 
 for (int i = 0; i<grades.Length; i++)
 {
+    int onegrade = GetGrade(i);
+    sum = sum + onegrade;
+    Console.WriteLine("Sum: " + sum);
     count++;
-    sum = GetGrade();
-    int average = sum/count;
-    Console.WriteLine(average);
+    //sum = int GetGrade();
+    Console.WriteLine("Count: " +count);
+    double average = sum/count;
+    Console.WriteLine("Average: " +average);
 }
