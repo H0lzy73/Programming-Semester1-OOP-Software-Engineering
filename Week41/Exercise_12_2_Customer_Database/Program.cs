@@ -138,3 +138,14 @@ public class CustomerDatabase {
         }
     }
 }*/
+
+
+
+
+
+
+MyMethod(child1: child 2);
+
+
+statis void MyMethod();
+ghedw
